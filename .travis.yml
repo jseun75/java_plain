@@ -1,2 +1,8 @@
 language: java
 script: javac Test.java
+notifications:
+    email:
+      recipients:
+        - jseun@etri.re.kr
+      on_success: always
+      on_failure: always
