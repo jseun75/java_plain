@@ -1,2 +1,2 @@
-language:java
-script:javac Test.java
+language: java
+script: javac Test.java
